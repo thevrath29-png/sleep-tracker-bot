@@ -38,7 +38,7 @@ PLAN = {
     # Days 29-30: Consolidate
     29: "**Consolidate - Day 29**\nRun the full stack one more time, no new habits added. Notice what's felt automatic vs. what still takes effort.",
     30: "**Consolidate - Day 30**\nSame. Write down which single habit made the biggest felt difference—that's the one to protect first if life gets chaotic (finals, travel, a bad week). You don't need to keep adding; you just need this system to become boring and automatic."
-}PLAN = {
+PLAN = {
     # Week 1: Anchor Your Wake Time
     1: "**Week 1 - Day 1: Anchor Your Wake Time**\nPick your wake-up time right now (same time you'd want on a normal class day). Set the alarm. Tomorrow morning, get outside—even just onto a balcony or the front steps—for 10-15 minutes within 30 minutes of waking.",
     2: "**Week 1 - Day 2**\nSame wake time. Same morning-light walk. Notice what time you naturally get sleepy tonight—don't force anything yet, just notice.",
